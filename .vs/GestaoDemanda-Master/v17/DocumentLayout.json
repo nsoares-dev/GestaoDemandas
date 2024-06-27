@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP MVC\\GestaoDemanda-Master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\models\\demanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\models\\demanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\controllers\\statusdemandascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\controllers\\statusdemandascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\models\\statusdemanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\models\\statusdemanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\models\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\models\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\models\\responsavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\models\\responsavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\controllers\\responsaveiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\controllers\\responsaveiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Data\\Migrations\\20240627004650_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoDemanda-Master\\Data\\Migrations\\20240627004650_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|d:\\asp mvc\\gestaodemanda-master\\gestaodemanda-master\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC149BFD-98E5-4380-B5D5-18D67BCA1804}|GestaoDemanda-Master\\GestaoDemanda-Master.csproj|solutionrelative:gestaodemanda-master\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusDemandasController.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Controllers\\StatusDemandasController.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Controllers\\StatusDemandasController.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Controllers\\StatusDemandasController.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Controllers\\StatusDemandasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:51:57.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nivel.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\Nivel.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Models\\Nivel.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\Nivel.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Models\\Nivel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:49:40.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestaoDemanda-Master\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T00:48:55.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Responsavel.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\Responsavel.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Models\\Responsavel.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\Responsavel.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Models\\Responsavel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:47:52.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240627004650_First.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Data\\Migrations\\20240627004650_First.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Data\\Migrations\\20240627004650_First.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Data\\Migrations\\20240627004650_First.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Data\\Migrations\\20240627004650_First.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:46:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponsaveisController.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Controllers\\ResponsaveisController.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Controllers\\ResponsaveisController.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Controllers\\ResponsaveisController.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Controllers\\ResponsaveisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:46:21.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demanda.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\Demanda.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Models\\Demanda.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\Demanda.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Models\\Demanda.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:38:27.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\appsettings.json",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\appsettings.json",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\appsettings.json",
+              "RelativeToolTip": "GestaoDemanda-Master\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T00:37:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:31:20.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Program.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Program.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:29:33.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusDemanda.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\StatusDemanda.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Models\\StatusDemanda.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\StatusDemanda.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Models\\StatusDemanda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:27:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "GestaoDemanda-Master\\Models\\Cliente.cs",
+              "ToolTip": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\Models\\Cliente.cs",
+              "RelativeToolTip": "GestaoDemanda-Master\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:27:08.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

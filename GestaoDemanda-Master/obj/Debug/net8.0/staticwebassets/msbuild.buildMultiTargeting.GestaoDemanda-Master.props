@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestaoDemanda-Master.props" />
+</Project>

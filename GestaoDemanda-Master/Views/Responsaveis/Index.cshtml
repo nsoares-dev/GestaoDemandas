@@ -1,0 +1,53 @@
+﻿@model IEnumerable<GestaoDemanda_Master.Models.Responsavel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeResponsavel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ApresentacaoResponsavel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nivel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FotoResponsavel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeResponsavel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApresentacaoResponsavel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nivel.NivelId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FotoResponsavel)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ResponsavelId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ResponsavelId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ResponsavelId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

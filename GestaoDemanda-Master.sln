@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoDemanda-Master", "GestaoDemanda-Master\GestaoDemanda-Master.csproj", "{BC149BFD-98E5-4380-B5D5-18D67BCA1804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC149BFD-98E5-4380-B5D5-18D67BCA1804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC149BFD-98E5-4380-B5D5-18D67BCA1804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC149BFD-98E5-4380-B5D5-18D67BCA1804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC149BFD-98E5-4380-B5D5-18D67BCA1804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD718B43-B6F7-411F-A850-A7AD901055F0}
+	EndGlobalSection
+EndGlobal
