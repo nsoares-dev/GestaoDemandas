@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj": {}
+    "C:\\Users\\nicol\\source\\repos\\nsoares-dev\\GestaoDemandas\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj": {}
   },
   "projects": {
-    "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj": {
+    "C:\\Users\\nicol\\source\\repos\\nsoares-dev\\GestaoDemandas\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\nsoares-dev\\GestaoDemandas\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj",
         "projectName": "GestaoDemanda-Master",
-        "projectPath": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj",
+        "projectPath": "C:\\Users\\nicol\\source\\repos\\nsoares-dev\\GestaoDemandas\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\source\\repos\\nsoares-dev\\GestaoDemandas\\GestaoDemanda-Master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

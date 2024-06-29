@@ -7,7 +7,7 @@ namespace GestaoDemanda_Master.Data
         public static async Task Initialize(IServiceProvider serviceProvider)
         {
             var context = serviceProvider
-                .GetRequiredService<ApplicationDbContext>();
+            .GetRequiredService<ApplicationDbContext>();
 
             context.Database.EnsureCreated();
 

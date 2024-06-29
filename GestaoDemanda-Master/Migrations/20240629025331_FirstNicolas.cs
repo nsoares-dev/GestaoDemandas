@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace GestaoDemanda_Master.Data.Migrations
+namespace GestaoDemanda_Master.Migrations
 {
     /// <inheritdoc />
-    public partial class First : Migration
+    public partial class FirstNicolas : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -32,7 +32,7 @@ namespace GestaoDemanda_Master.Data.Migrations
                     NomeResponsavel = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     ApresentacaoResponsavel = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     NivelId = table.Column<int>(type: "int", nullable: false),
-                    FotoResponsavel = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    FotoResponsavel = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

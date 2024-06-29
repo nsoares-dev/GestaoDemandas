@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G1ykOIXC8uKWkY50JYe0mJ9MPstwQ5OrEu6SB01mUeCVkzW7nLcnZDbZFO7GH+GJiztvbnTT4nYBVFRNawkIrQ==",
+  "dgSpecHash": "WMBp3fFoQ8o=",
   "success": true,
-  "projectFilePath": "D:\\ASP MVC\\GestaoDemanda-Master\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj",
+  "projectFilePath": "C:\\Users\\nicol\\source\\repos\\nsoares-dev\\GestaoDemandas\\GestaoDemanda-Master\\GestaoDemanda-Master.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

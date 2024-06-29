@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoDemanda-Master")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42ef18da18434c253fbc54ae3c304e3e1df2db1")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoDemanda-Master")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoDemanda-Master")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

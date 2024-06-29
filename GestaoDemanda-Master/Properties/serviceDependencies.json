@@ -7,6 +7,10 @@
     "mssql2": {
       "type": "mssql",
       "connectionId": "ConnectionStrings:GestaoDemanda_MasterContext"
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:ApplicationDbContext"
     }
   }
 }

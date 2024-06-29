@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using GestaoDemanda_Master.Data;
 using GestaoDemanda_Master.Models;
 
 namespace GestaoDemanda_Master.Controllers
@@ -19,11 +18,13 @@ namespace GestaoDemanda_Master.Controllers
             _context = context;
         }
 
+        // GET: Niveis
         public async Task<IActionResult> Index()
         {
             return View(await _context.Nivel.ToListAsync());
         }
 
+        // GET: Niveis/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -41,11 +42,15 @@ namespace GestaoDemanda_Master.Controllers
             return View(nivel);
         }
 
+        // GET: Niveis/Create
         public IActionResult Create()
         {
             return View();
         }
 
+        // POST: Niveis/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("NivelId,NivelNome")] Nivel nivel)
@@ -59,6 +64,7 @@ namespace GestaoDemanda_Master.Controllers
             return View(nivel);
         }
 
+        // GET: Niveis/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -74,6 +80,9 @@ namespace GestaoDemanda_Master.Controllers
             return View(nivel);
         }
 
+        // POST: Niveis/Edit/5
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("NivelId,NivelNome")] Nivel nivel)
@@ -106,6 +115,7 @@ namespace GestaoDemanda_Master.Controllers
             return View(nivel);
         }
 
+        // GET: Niveis/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -123,6 +133,7 @@ namespace GestaoDemanda_Master.Controllers
             return View(nivel);
         }
 
+        // POST: Niveis/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

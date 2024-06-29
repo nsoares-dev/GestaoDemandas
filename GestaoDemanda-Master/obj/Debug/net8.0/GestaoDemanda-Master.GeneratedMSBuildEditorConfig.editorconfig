@@ -17,107 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GestaoDemanda_Master
 build_property.RootNamespace = GestaoDemanda_Master
-build_property.ProjectDir = D:\ASP MVC\GestaoDemanda-Master\GestaoDemanda-Master\
+build_property.ProjectDir = C:\Users\nicol\source\repos\nsoares-dev\GestaoDemandas\GestaoDemanda-Master\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ASP MVC\GestaoDemanda-Master\GestaoDemanda-Master
+build_property.MSBuildProjectDirectory = C:\Users\nicol\source\repos\nsoares-dev\GestaoDemandas\GestaoDemanda-Master
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Home/Index.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Home/Privacy.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Niveis/Create.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Niveis/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWlzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Niveis/Delete.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Niveis/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWlzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Niveis/Details.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Niveis/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWlzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Niveis/Edit.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Niveis/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWlzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Niveis/Index.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Niveis/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWlzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Responsaveis/Create.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Responsaveis/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWlzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Responsaveis/Delete.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Responsaveis/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWlzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Responsaveis/Details.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Responsaveis/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWlzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Responsaveis/Edit.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Responsaveis/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWlzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Responsaveis/Index.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Responsaveis/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWlzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Shared/Error.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/StatusDemandas/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzRGVtYW5kYXNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/StatusDemandas/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzRGVtYW5kYXNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/StatusDemandas/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzRGVtYW5kYXNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/StatusDemandas/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzRGVtYW5kYXNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/StatusDemandas/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzRGVtYW5kYXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/_ViewImports.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/_ViewStart.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP MVC/GestaoDemanda-Master/GestaoDemanda-Master/Views/Shared/_Layout.cshtml]
+[C:/Users/nicol/source/repos/nsoares-dev/GestaoDemandas/GestaoDemanda-Master/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-loxhwya5b4
